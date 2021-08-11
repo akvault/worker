@@ -1,7 +1,7 @@
 # worker
 worker app 
 
-``helm install -f helm/worker.yaml worker helm/worker```
+```helm install -f helm/worker.yaml worker helm/worker```
 
 ```helm uninstall worker```
 
